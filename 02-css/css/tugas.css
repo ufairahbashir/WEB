@@ -1,0 +1,24 @@
+body{
+    background-color: #062133;
+    padding-top: 75px;
+    font-family: 'Century Gothic', serif;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+header{
+    background-color: #ec9a00f3;
+    text-align: center;
+    font-size: 37px;
+    color: #FFEDDA;
+    padding: 3px;
+}
+
+article{
+    background: rgba(0,0,0, 0.2);
+    color: #FFEDDA;
+    padding: 20px;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 7%;
+}
